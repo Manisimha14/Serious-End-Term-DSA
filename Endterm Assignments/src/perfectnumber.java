@@ -16,6 +16,7 @@ void main() {
         System.out.println(0);
     }
     else {
+    
         System.out.println(1);
     }
 }
